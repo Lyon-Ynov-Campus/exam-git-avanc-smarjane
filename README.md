@@ -15,3 +15,7 @@ go run main.go
 ```
 
 Le serveur sera accessible sur http://localhost:8080
+
+Differecne entre git reset et revert : 
+git reset : Permet d’annuler des commits ou des modifications dans l’historique.
+git revert : Annule un commit spécifique en créant un nouveau commit d’annulation.
