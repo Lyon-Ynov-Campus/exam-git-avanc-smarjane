@@ -21,4 +21,4 @@ func main() {
 	log.Fatal(http.ListenAndServe(":8080", nil))
 }
 
-//exercice 3 : 1er fonctionnalité
+//ajout fonctionnalité ex3
